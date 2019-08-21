@@ -49,7 +49,7 @@ conda activate keras
 Check that your prompt changed to
 
 ```
-(Teras) $
+(keras) $
 
 ```
 
@@ -90,7 +90,7 @@ conda deactivate
 - deactivate the environment (Windows 10):
 
 ```
-deactivate eras
+deactivate keras
 ```
 
 - delete the environment:
