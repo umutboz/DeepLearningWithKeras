@@ -1,7 +1,7 @@
 
-# Deep Learning with Keras® Course
+# Deep Learning with Keras®
 
-Welcome to the Deep Learning with Keras® Course repository.
+Welcome to the Deep Learning with Keras®  repository.
 
 ## Get started guide
 
@@ -68,7 +68,6 @@ Go to the course folder, open the notebook `Check_Environment.ipynb` and run it.
 
     Keras env is Ready!
 
-You are good to go! Enjoy!
 
 
 #### Troubleshooting installation
